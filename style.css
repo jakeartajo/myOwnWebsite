@@ -73,3 +73,19 @@ section {
 #home h1{
     color:aqua
 }
+
+.c-container{
+    border: 2px solid black;
+    height: 400px;
+    width: 600px;
+    justify-content: center;
+    padding: 2px solid black
+}
+
+#contact i-logo,f-logo{
+    justify-content: center;   
+}
+
+#about p,fieldset{
+    font-size: 30px
+}
